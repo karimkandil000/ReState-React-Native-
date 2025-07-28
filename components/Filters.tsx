@@ -17,7 +17,7 @@ export const Filters = () => {
     }
 
     setSelectedCategory(category);
-    router.setParams({filter: category});
+    router.setParams({ filter: category });
   };
 
   return (
