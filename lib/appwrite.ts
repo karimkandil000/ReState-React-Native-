@@ -7,7 +7,7 @@ import {
   Databases,
   OAuthProvider,
   Query,
-  Storage
+  Storage,
 } from "react-native-appwrite";
 
 export const config = {
